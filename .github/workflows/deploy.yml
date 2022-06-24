@@ -30,7 +30,7 @@ jobs:
 
       - name: Install dependencies
         if: steps.yarn-cache.outputs.cache-hit != 'true'
-        run: yarn --frozen-lockfile
+        run: yarn
 
       - name: Build Docs
         run: yarn docs:build

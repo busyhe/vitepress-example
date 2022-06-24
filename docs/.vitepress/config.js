@@ -5,6 +5,7 @@
  * Description:
  */
 export default {
+    base: '/vitepress-example/',
     title: 'vitepress-example',
     appearance: true,
     lastUpdated: true,
