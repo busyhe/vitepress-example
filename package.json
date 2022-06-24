@@ -30,12 +30,13 @@
         "vitepress": "^1.0.0-alpha.4",
         "vue": "^3.2.37"
     },
+    "homepage": "https://busyhe.github.io/vitepress-example/",
     "bugs": {
-        "url": ""
+        "url": "https://github.com/busyhe/vitepress-example/issues"
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git@github.com:busyhe/vitepress-example.git"
     },
     "config": {
         "commitizen": {
